@@ -1,4 +1,4 @@
-# 💼 E-commerce PostgreSQL Project
+# E-commerce PostgreSQL Project
 
 This project showcases a structured **relational e-commerce database** built with PostgreSQL. It includes a comprehensive database schema, synthetic sample data, and a set of SQL queries designed for analytical insights.
 
